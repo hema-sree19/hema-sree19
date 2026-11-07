@@ -79,3 +79,11 @@ An AI-powered application that generates structured first drafts of legal docume
 ---
 
 ⭐ Thank you for visiting my profile!
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hema-sree19&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-sree19&layout=compact&theme=default)
