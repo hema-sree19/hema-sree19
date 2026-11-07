@@ -54,3 +54,28 @@ An AI-powered application that generates structured first drafts of legal docume
 A collection of beginner-level Python programs.
 
 🔗 [View Repository](https://github.com/hema-sree19/python-beginner-programs)
+
+---
+
+## 🚀 My Projects
+
+### LegalEase – AI-Powered Legal Document Generator
+
+An AI-powered application that generates structured first drafts of legal documents.
+
+**Technologies:** Python, Streamlit, FastAPI, Google Gemini AI
+
+🔗 [GitHub Repository](https://github.com/hema-sree19/LegalEase)
+
+🎥 [Project Demo](https://drive.google.com/file/d/1k-fR1aU1dDqbbmaqkLHQSSu61d2h9rSi/view?usp=drivesdk)
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: [hema-sree19](https://github.com/hema-sree19)
+- 📧 Email: Add your email address here
+
+---
+
+⭐ Thank you for visiting my profile!
