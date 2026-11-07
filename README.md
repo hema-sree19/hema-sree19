@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Hema Sree K S! 👋
 
-<!--
-**hema-sree19/hema-sree19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Artificial Intelligence and Machine Learning Student
 
-Here are some ideas to get you started:
+💻 Aspiring AI & ML Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 KPR College of Arts Science and Research
+
+🌱 Currently learning Python and Machine Learning.
+
+💡 Interested in Artificial Intelligence, Generative AI and Technology.
+
+🚀 Building projects and improving my coding skills.
