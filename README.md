@@ -1,4 +1,3 @@
-![Hema Sree K S - GitHub Banner](Hema github.png)
 # Hi, I'm Hema Sree K S! 👋
 
 🎓 B.Sc. Artificial Intelligence and Machine Learning Student
