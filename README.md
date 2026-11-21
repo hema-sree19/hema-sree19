@@ -1,4 +1,5 @@
 ![Hema Sree K S - GitHub Banner](hema-github-banner.png)
+
 # Hi, I'm Hema Sree K S! 👋
 
 🎓 B.Sc. Artificial Intelligence and Machine Learning Student
@@ -9,7 +10,7 @@
 
 🌱 Currently learning Python and Machine Learning.
 
-💡 Interested in Artificial Intelligence, Generative AI and Technology.
+💡 Interested in Artificial Intelligence, Generative AI, Affective Computing and Technology.
 
 🚀 Building projects and improving my coding skills.
 
@@ -40,11 +41,7 @@
 
 An AI-powered application that generates structured first drafts of legal documents.
 
-**Technologies:**
-- Python
-- Streamlit
-- FastAPI
-- Google Gemini AI
+**Technologies:** Python, Streamlit, FastAPI, Google Gemini AI
 
 🔗 [GitHub Repository](https://github.com/hema-sree19/LegalEase)
 
@@ -58,24 +55,10 @@ A collection of beginner-level Python programs.
 
 ---
 
-## 🚀 My Projects
-
-### LegalEase – AI-Powered Legal Document Generator
-
-An AI-powered application that generates structured first drafts of legal documents.
-
-**Technologies:** Python, Streamlit, FastAPI, Google Gemini AI
-
-🔗 [GitHub Repository](https://github.com/hema-sree19/LegalEase)
-
-🎥 [Project Demo](https://drive.google.com/file/d/1k-fR1aU1dDqbbmaqkLHQSSu61d2h9rSi/view?usp=drivesdk)
-
----
-
 ## 📫 Connect With Me
 
 - 💻 GitHub: [hema-sree19](https://github.com/hema-sree19)
-- 📧 Email: Add your email address here
+- 📧 Email: itzz.hemzzz19@gmail.com
 
 ---
 
